@@ -11,3 +11,5 @@ def maxsubarray(nums):
 nums  = [-8, -3, -6, -2, -5]
 print(maxsubarray(nums))
 
+
+    
